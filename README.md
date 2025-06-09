@@ -41,7 +41,7 @@ Solusi diperoleh melalui dua langkah utama:
 Buka terminal atau command prompt, navigasi ke folder proyek, dan kompilasi program dengan perintah:
 
 ```sh
-g++ nama_file_anda.cpp -o solver
+g++ VariableConductivityHeat1D.cpp -o solver
 ```
 
 ## 3. Ekesekusi
